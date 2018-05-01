@@ -1,5 +1,5 @@
 {
-  "data":{
+  "data":[
   "licence":[
     {
       "name":"Licence 1",
@@ -38,5 +38,5 @@
       "url":"https://drive.google.com/open?id=1aQ8buItYIoWkwiXm5J1ylso0O__jT2Xg"
     }
     ]
-  }
+  ]
 }
